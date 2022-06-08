@@ -17,26 +17,26 @@
 - ساختمان‌های گسسته دکتر فلاح بهار ۹۳ - [مخزن](https://github.com/9231058/DS92)
 - برنامه‌نویسی پیشرفته دکتر نورحسینی بهار ۹۳ - [مخزن](https://github.com/9231058/SudoApache) [مخزن](https://github.com/9231058/JTextEditor) [مخزن](https://github.com/9231058/JIDM) [مخزن](https://github.com/9231058/JCal) [مخزن](https://github.com/9231058/Bubbles) [مخزن](https://github.com/9231058/BattleshipClient) [مخزن](https://github.com/9231058/Battleship) [مخزن](https://github.com/9231058/AP92) [مخزن](https://github.com/9231058/jumong) [مخزن](https://github.com/9231058/AP101)
 - ساختمان داده و الگوریتم دکتر موسوی پاییز ۹۳ - [مخزن](https://github.com/9231058/DS-Homework)
-- سیستم‌های عامل دکتر پی‌براه پاییز ۹۳
+- سیستم‌های عامل دکتر پی‌براه پاییز ۹۳ - [مخزن](https://github.com/9231058/OS-Homework)
 - زبان ماشین و اسمبلی دکتر زرندی پاییز ۹۳ - [مخزن](https://github.com/9231058/ASM-Homework)
 - طراحی الگوریتم دکتر موسوی بهار ۹۴
 - شبکه‌های کامپیوتری ۱ دکتر صادقیان بهار ۹۴
-- معماری کامپیوتر دکتر ززندی بهار ۹۴ - [مخزن](https://github.com/9231058/TCache)
+- معماری کامپیوتر دکتر ززندی بهار ۹۴ - [مخزن](https://github.com/9231058/TCache) [مخزن](https://github.com/9231058/CEITDivider)
 - شبکه‌های کامپیوتری پیشرفته دکتر خرسندی پاییز ۹۴ - [مخزن](https://github.com/9231058/SDNBazi)
-- پایگاه داده دکتر امیرحائری پاییز ۹۴ - [مخزن](https://github.com/9231058/DB-Homework)
+- پایگاه داده دکتر امیرحائری پاییز ۹۴ - [مخزن](https://github.com/9231058/DB-Homework) [مخزن](https://github.com/9231058/BilliT)
 - زبان‌های برنامه‌نویسی دکتر فلاح پاییز ۹۴ - [مخزن](https://github.com/9231058/pl-notes)
 - ریزپردازنده ۱ دکتر همایونپور پاییز ۹۴ - [مخزن](https://github.com/9231058/Homayoun) [مخزن](https://github.com/9231058/MP101)
-- سیستم‌های عامل دکتر زرندی پاییز ۹۴
+- سیستم‌های عامل دکتر زرندی پاییز ۹۴ - [مخزن](https://github.com/9231058/OS-Homework)
 - شبکه‌های کامپیوتری ۲ دکتر صبایی بهار ۹۵ - [مخزن](https://github.com/9231058/UDPNoise)
-- طراحي سيستم‌هاي ديجيتال برنامه‌پذير دکتر صاحب الزمانی بهار ۹۵ - [مخزن](https://github.com/9231058/FPGA-Homework)
-- مهندسی اینترنت دکتر بخشی بهار ۹۵ - [مخزن](https://github.com/9231058/GameStation)
+- طراحي سيستم‌هاي ديجيتال برنامه‌پذير دکتر صاحب الزمانی بهار ۹۵ - [مخزن](https://github.com/9231058/FPGA-Homework) [مخزن](https://github.com/9231058/HWScheduler)
+- مهندسی اینترنت دکتر بخشی بهار ۹۵ - [مخزن](https://github.com/9231058/GameStation) [مخزن](https://github.com/9231058/BozorgOn) [مخزن](https://github.com/9231058/TMail) [مخزن](https://github.com/9231058/THAP)
 - روش پژوهش و ارائه مهندسی دکتر شیری بهار ۹۵
 - کارآموزی مرکز تحقیقات مخابرات زیر نظر مهندس ابراهیمی دفتر اینترنت اشیا تابستان ۹۵ - [مخزن](https://github.com/9231058/ITSummel)
 - طراحی کامپایلر دکتر رزازی پاییز ۹۵ - [مخزن](https://github.com/9231058/yepc)
-- ریاضیات مهندسی دکتر مزلقانی پاییز ۹۵
+- ریاضیات مهندسی دکتر مزلقانی پاییز ۹۵ - [مخزن](https://github.com/9231058/ImageBazi)
 - آزمایشگاه ریزپردازنده مهندس اسفندیاری پاییز ۹۵ - [مخزن](https://github.com/9231058/congenial-telegram)
 - مبانی هوش مصنوعی دکتر عباد زاده پاییز ۹۵
-- طراحی مدارهای واسط دکتر صدیقی بهار ۹۶
+- طراحی مدارهای واسط دکتر صدیقی بهار ۹۶ - [مخزن](https://github.com/9231058/Rooman)
 - مدیریت شبکه دکتر بخشی بهار ۹۶ - [مخزن](https://github.com/9231058/NM-Homework)
 - بهینه‌سازی دکتر بخشی پاییز ۹۶ - [مخزن](https://github.com/9231058/ON-Homework)
 - سیستم‌های توزیعی دکتر پدرام پاییز ۹۶ - [مخزن](https://github.com/9231058/Dsystem-Homework)
