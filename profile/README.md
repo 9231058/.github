@@ -15,7 +15,7 @@
 - آزمایشگاه کامپیوتر مهندس آرش عبدی پاییز ۹۲ - [مخزن](https://github.com/9231058/solid-eureka)
 - اخلاق مهندسی دکتر یزدانی بهار ۹۳ - [مخزن](https://github.com/9231058/BART)
 - ساختمان‌های گسسته دکتر فلاح بهار ۹۳ - [مخزن](https://github.com/9231058/DS92)
-- برنامه‌نویسی پیشرفته دکتر نورحسینی بهار ۹۳ - [مخزن](https://github.com/9231058/SudoApache) [مخزن](https://github.com/9231058/JTextEditor) [مزخن](https://github.com/9231058/JIDM) [مخزن](https://github.com/9231058/JCal) [مخزن](https://github.com/9231058/Bubbles) [مخزن](https://github.com/9231058/BattleshipClient) [مخزن](https://github.com/9231058/Battleship) [مخزن](https://github.com/9231058/AP92) [مخزن](https://github.com/9231058/jumong)
+- برنامه‌نویسی پیشرفته دکتر نورحسینی بهار ۹۳ - [مخزن](https://github.com/9231058/SudoApache) [مخزن](https://github.com/9231058/JTextEditor) [مخزن](https://github.com/9231058/JIDM) [مخزن](https://github.com/9231058/JCal) [مخزن](https://github.com/9231058/Bubbles) [مخزن](https://github.com/9231058/BattleshipClient) [مخزن](https://github.com/9231058/Battleship) [مخزن](https://github.com/9231058/AP92) [مخزن](https://github.com/9231058/jumong)
 - ساختمان داده و الگوریتم دکتر موسوی پاییز ۹۳
 - سیستم‌های عامل دکتر پی‌براه پاییز ۹۳
 - زبان ماشین و اسمبلی دکتر زرندی پاییز ۹۳
