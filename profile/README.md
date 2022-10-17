@@ -37,7 +37,7 @@
 - ریاضیات مهندسی دکتر مزلقانی پاییز ۹۵ - [مخزن](https://github.com/9231058/ImageBazi)
 - آزمایشگاه ریزپردازنده مهندس اسفندیاری پاییز ۹۵ - [مخزن](https://github.com/9231058/congenial-telegram)
 - مبانی هوش مصنوعی دکتر عباد زاده پاییز ۹۵
-- طراحی مدارهای واسط دکتر صدیقی بهار ۹۶ - [مخزن](https://github.com/9231058/Rooman)
+- طراحی مدارهای واسط دکتر صدیقی بهار ۹۶ - [مخزن](https://github.com/9231058/Rooman) [مخزن](https://github.com/9231058/cuddly-pancake)
 - مدیریت شبکه دکتر بخشی بهار ۹۶ - [مخزن](https://github.com/9231058/NM-Homework)
 - بهینه‌سازی دکتر بخشی پاییز ۹۶ - [مخزن](https://github.com/9231058/ON-Homework)
 - سیستم‌های توزیعی دکتر پدرام پاییز ۹۶ - [مخزن](https://github.com/9231058/Dsystem-Homework)
