@@ -33,7 +33,7 @@
 - مهندسی اینترنت دکتر بخشی بهار ۹۵ - [مخزن](https://github.com/9231058/GameStation) [مخزن](https://github.com/9231058/BozorgOn) [مخزن](https://github.com/9231058/TMail) [مخزن](https://github.com/9231058/THAP)
 - روش پژوهش و ارائه مهندسی دکتر شیری بهار ۹۵ - [مخزن](https://github.com/9231058/SDN-RP)
 - کارآموزی مرکز تحقیقات مخابرات زیر نظر مهندس ابراهیمی دفتر اینترنت اشیا تابستان ۹۵ - [مخزن](https://github.com/9231058/ITSummel)
-- طراحی کامپایلر دکتر رزازی پاییز ۹۵ - [مخزن](https://github.com/9231058/yepc)
+- طراحی کامپایلر دکتر رزازی پاییز ۹۵ - [مخزن](https://github.com/9231058/yepc) [مخزن](https://github.com/9231058/miniature-tribble)
 - ریاضیات مهندسی دکتر مزلقانی پاییز ۹۵ - [مخزن](https://github.com/9231058/ImageBazi)
 - آزمایشگاه ریزپردازنده مهندس اسفندیاری پاییز ۹۵ - [مخزن](https://github.com/9231058/congenial-telegram)
 - مبانی هوش مصنوعی دکتر عباد زاده پاییز ۹۵
