@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./image.jpg" alt="image">
+</div>
+
 <div dir="rtl">
 
 # من در امیرکبیر
