@@ -17,6 +17,8 @@
 
 - مبانی کامپیوتر و برنامه‌نویسی دکتر بخشی پاییز ۹۲ - [مخزن](https://github.com/9231058/CE101-C) [مخزن](https://github.com/9231058/reimagined-palm-tree)
 - آزمایشگاه کامپیوتر مهندس آرش عبدی پاییز ۹۲ - [مخزن](https://github.com/9231058/solid-eureka)
+- ریاضی عمومی ۱ دکتر خسروی پاییز ۹۲
+- ریاضی عمومی ۲ دکتر خسوری بهار ۹۲
 - اخلاق مهندسی دکتر یزدانی بهار ۹۳ - [مخزن](https://github.com/9231058/BART)
 - ساختمان‌های گسسته دکتر فلاح بهار ۹۳ - [مخزن](https://github.com/9231058/DS92)
 - برنامه‌نویسی پیشرفته دکتر نورحسینی بهار ۹۳ - [مخزن](https://github.com/9231058/SudoApache) [مخزن](https://github.com/9231058/JTextEditor) [مخزن](https://github.com/9231058/JIDM) [مخزن](https://github.com/9231058/JCal) [مخزن](https://github.com/9231058/Bubbles) [مخزن](https://github.com/9231058/BattleshipClient) [مخزن](https://github.com/9231058/Battleship) [مخزن](https://github.com/9231058/AP92) [مخزن](https://github.com/9231058/jumong) [مخزن](https://github.com/9231058/AP101)
