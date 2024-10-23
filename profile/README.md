@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./image.jpg" alt="image">
+    <img src="../image.jpg" alt="image">
 </div>
 
 <div dir="rtl">
